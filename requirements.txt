@@ -1,0 +1,5 @@
+requests>=2.31
+pydantic>=2.6
+mlflow==2.22.1
+pytest>=8.0
+langfuse>=5.0
