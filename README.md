@@ -7,14 +7,12 @@ La estructura ya está creada y los archivos están vacíos. La guía indica qu�
 
 ## Cómo empezar
 
-No trabajes sobre este repositorio: crea el tuyo a partir de él.
+No trabajes sobre este repositorio: haz **fork** a tu cuenta (botón **Fork**) y clona tu fork.
 
 ```bash
-gh repo create llmops-lab --template utec-devops-2026/llmops-lab --public --clone
+git clone https://github.com/<tu-usuario>/llmops-lab.git
 cd llmops-lab
 ```
-
-Sin `gh`: botón **Use this template** → **Create a new repository**, y luego `git clone` de tu copia.
 
 ## Qué archivo se llena en qué paso
 
