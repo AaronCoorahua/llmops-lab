@@ -1,0 +1,6 @@
+# El juez tiene dueño: estos archivos solo cambian con la aprobación de esa persona.
+/gate/                  @AaronCoorahua
+/data/golden.jsonl      @AaronCoorahua
+/src/evaluate.py        @AaronCoorahua
+/src/gate.py            @AaronCoorahua
+/.github/               @AaronCoorahua
