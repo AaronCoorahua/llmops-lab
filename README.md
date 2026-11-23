@@ -49,7 +49,13 @@ python -m src.tracing
 
 ![Monitoring](evidencias/4-monitoring-price-hike-rojo.png)
 
-<!-- LANGFUSE -->
+**Langfuse: trazas.** Traza `clasificar-ticket` con sus tags (`prompt:clasificador/v2`, `escenario:price_hike`), sus scores y la generación `llm` con el ticket y la respuesta.
+
+![Langfuse trazas](evidencias/5-langfuse-trazas.png)
+
+**Langfuse: dashboard Langfuse Home.** 60 trazas, 120 scores y `contrato_valido` con promedio 1.
+
+![Langfuse Home](evidencias/6-langfuse-dashboard.png)
 
 ## Preguntas de reflexión
 
